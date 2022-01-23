@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Elefante1",
+            "request": "launch",
+            "mainClass": "Elefante1",
+            "projectName": "clasesdejava_c6b13be0"
+        },
+        {
+            "type": "java",
+            "name": "Launch elefante1",
+            "request": "launch",
+            "mainClass": "elefante1",
+            "projectName": "clasesdejava_c6b13be0"
+        },
+        {
+            "type": "java",
+            "name": "Launch HolaMundo",
+            "request": "launch",
+            "mainClass": "HolaMundo",
+            "projectName": "clasesdejava_c6b13be0"
+        },
+        {
+            "type": "java",
+            "name": "Launch iva",
+            "request": "launch",
+            "mainClass": "iva",
+            "projectName": "clasesdejava_c6b13be0"
+        },
+        {
+            "type": "java",
+            "name": "Launch parimpar",
+            "request": "launch",
+            "mainClass": "parimpar",
+            "projectName": "clasesdejava_c6b13be0"
+        },
+        {
+            "type": "java",
+            "name": "Launch persona",
+            "request": "launch",
+            "mainClass": "persona",
+            "projectName": "clasesdejava_c6b13be0"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "clasesdejava_c6b13be0"
+        }
+    ]
+}
