@@ -1,0 +1,16 @@
+const express = require('express');
+const app = express();
+app.use(express.urlencoded({extended: false}));
+app.use(express.json());
+
+app.get('/api/logistics/products', (req, res) => {
+    res.json(products);
+});
+
+app.post('/api/logistics/products', async (req, res) => {
+    const product = await req.body;
+    products.push(product);
+    res.json(products);
+});
+
+module.exports = app;
